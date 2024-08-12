@@ -1,0 +1,10 @@
+.sidebar-links a {
+    width: 100%;
+    display: flex;
+    font-size: 1.3rem;
+    column-gap: 0.5rem;
+}
+
+.sidebar-links a.active {
+    background-color: #391588;
+}

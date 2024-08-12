@@ -1,0 +1,15 @@
+.add-product-form-wrap div input {
+    outline: none;
+    border: none;
+    background: unset;
+    padding: 8px 2px;
+    font-size: 0.5rem;
+    width: 100%;
+}
+
+@media (min-width: 640px) {
+    .add-product-form-wrap div input{
+        font-size: 1.1rem;
+        padding: 8px 10px;
+    }
+}
